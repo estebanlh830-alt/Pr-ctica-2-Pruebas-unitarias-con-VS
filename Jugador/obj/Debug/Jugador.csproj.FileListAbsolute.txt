@@ -1,0 +1,6 @@
+D:\Clase\Jugador\Jugador\bin\Debug\Jugador.dll
+D:\Clase\Jugador\Jugador\bin\Debug\Jugador.pdb
+D:\Clase\Jugador\Jugador\obj\Debug\Jugador.csproj.AssemblyReference.cache
+D:\Clase\Jugador\Jugador\obj\Debug\Jugador.csproj.CoreCompileInputs.cache
+D:\Clase\Jugador\Jugador\obj\Debug\Jugador.dll
+D:\Clase\Jugador\Jugador\obj\Debug\Jugador.pdb
